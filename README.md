@@ -1,5 +1,7 @@
 > [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
 
+> [Access Project in Git View](https://github.com/krista-lowry/data-analysis)
+
 ## Project 1: Identifying User Segments and Predicting Conversions
 
 This project showcases my ability to perform in-depth data analysis using R code, transform findings into visualizations in Tableau, and offer data-driven recommendations to optimize marketing and CRO strategies.
