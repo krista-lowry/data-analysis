@@ -28,7 +28,7 @@ This conclusion is not ground breaking: it stands to reason that a user who is f
 
 This insight gives us direction into building an operational and insightful Tableau dashboard for the client as they begin optimizing their campaigns and strategies for the next year.
 
-[Access the Jupyter Notebook](https://github.com/krista-lowry/portfolio/blob/main/r-code-markdown.ipynb)
+[Access the Jupyter Notebook](https://github.com/krista-lowry/data-analysis/blob/main/r-code-markdown.ipynb)
 
 ### Tableau Dashboard
 Given the client's objective to determine the optimal target audience and time of year, I built a Tableau dashboard to show key performance indicator performance month-over-month, during the week and over holiday periods.
