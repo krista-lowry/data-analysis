@@ -1,4 +1,4 @@
-> [**Return to Portfolio home**](https://github.com/krista-lowry/portfolio)
+> [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
 
 ## Project 1: Identifying User Segments and Predicting Conversions
 
@@ -14,7 +14,7 @@ In particular, they want to understand:
 In addition to this analysis, they also want an operational dashboard to monitor performance as they start fine-tuning their strategies based on these findings.
 
 #### There are three deliverables:
-1. [Data exploration and anaylsis using R code in Jupyter Notebooks](https://github.com/krista-lowry/portfolio/blob/main/r-code-markdown.ipynb)
+1. [Data exploration and anaylsis using R code in Jupyter Notebooks](https://github.com/krista-lowry/data-analysis/blob/main/r-code-markdown.ipynb)
 2. [Tableau dash for monitoring performance](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance)
 
 ### Data Exploration and Analysis
@@ -39,3 +39,5 @@ Next steps:
 - Identify and present specific strategies the client can take in the next holiday season to maintain and improve conversion rates in their key returning uesrs market, and how they can increase conversion volume from new users.
 
 [Access the Tableau Dashboard at Tableau Public](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance)
+
+> [**Return to Portfolio home**](https://krista-lowry.github.io/portfolio/)
